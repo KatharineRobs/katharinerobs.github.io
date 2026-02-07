@@ -1,6 +1,6 @@
 # Technical Writer
 
-I've got over 10 years of writing experience, as seen in thick binders of mining equipment manuals and tutorials for building video games. I'm keen on translating and authoring complex technical concepts for global audiences. I've written docs for:
+I've got over 10 years of writing experience, some of the hits include: thick binders of mining equipment manuals and online tutorials for video game developers. I'm keen on translating and authoring complex technical concepts for global audiences. I've written docs for:
 
 * Epic Games
 * Electronic Arts (EA)
