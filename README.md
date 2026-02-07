@@ -15,7 +15,7 @@ I've got over 10 years of writing experience, some of the hits include: thick bi
 The following pages were updated to fit Epic Online Services' style guide standards.
 
 * **[Tool: Bulk Import / Export](https://dev.epicgames.com/docs/epic-online-services/eos-fundamentals/tools/bulk-importer-exporter-tool)**: Full page makeover, including rearranging samples and steps.
-* **[Request Approval to Use the Unreal Engine Logo](https://dev.epicgames.com/docs/epic-online-services/eos-fundamentals/tools/bulk-importer-exporter-tool)**: Entire page was created from scratch.
+* **[Request Approval to Use the Unreal Engine Logo](https://dev.epicgames.com/docs/dev-portal/unreal-engine/ue-trademark-license)**: Entire page was created from scratch.
 
 ## Unity
 
