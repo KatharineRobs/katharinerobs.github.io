@@ -13,7 +13,7 @@ From building mining equipment manuals to crafting online tutorials for game dev
 
 ## What I made 
 
-The following samples were written to fit each company's style guide standards. I either authored the initial version and maintained it, or updated an existing page. 
+I wrote the following samples to fit each company's style guide standards. I either authored the initial version and maintained it or updated an existing page. 
 
 ### Epic Games
 
