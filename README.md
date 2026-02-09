@@ -10,6 +10,7 @@ From building mining equipment manuals to crafting online tutorials for game dev
 * Unity
 * Diligent
 * Sepro Mineral Systems Corp.
+  Note: Sepro equipment manuals are only available in printed hardcopies: 300+-page binders packed with blueprints, steps, safety warnings, and screenshots.
 
 ## What I made 
 
