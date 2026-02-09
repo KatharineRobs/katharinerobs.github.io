@@ -6,7 +6,7 @@ From building mining equipment manuals to crafting online tutorials for game dev
 
 * Epic Games
 * Electronic Arts (EA)  
-**Note**: EA work specifics are under NDA.
+**Note**: EA, including Frostbite and EA Sports, work specifics are under NDA.
 * Unity
 * Diligent
 * Sepro Mineral Systems Corp.
@@ -29,7 +29,7 @@ I authored the initial pages and maintained them through engine updates.
 
 ### Diligent 
 
-* **[Delete an objective (HighBond API)](https://docs-apis.highbond.com/#operation/deleteObjective)**: A developer wrote the first draft - I just reviewed and edited the piece. I would also maintain it if it needed updates. 
+* **[Delete an objective (HighBond API)](https://docs-apis.highbond.com/#operation/deleteObjective)**: A developer wrote the first draft - I just reviewed and edited the piece.
 * **Utility Toolbar**:
   * [Release notes](https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/release_notes/release-notes-projects.htm?Highlight=unlink%20project%20risk%20category%20#:~:text=Introducing%20Utility%20Toolbar)
   * [Project side panels](https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/projects/getting_started/getting_started.html#side:~:text=bulk%20upload%20capabilities-,Project%20side%20panels,-Project%20side%20panels) 
